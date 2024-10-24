@@ -1,0 +1,19 @@
+# Dependency directory
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Database-related files
+*.sqlite
+pgdata/
+
+# OS/IDE specific
+.DS_Store
+.vscode/
+.idea/
